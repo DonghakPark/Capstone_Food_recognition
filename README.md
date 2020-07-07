@@ -1,4 +1,4 @@
-# helpme
+# helpme - Nutrition Management Platform through Image Recognition
 - Capstone Design project
 - we try to make image processing Android Application
 - because of security just upload src file 
